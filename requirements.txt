@@ -1,3 +1,5 @@
 Flask
 gunicorn
 requests
+Flask-Session
+Werkzeug==0.16.0
