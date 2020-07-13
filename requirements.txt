@@ -4,3 +4,4 @@ requests
 Flask-Session
 Werkzeug==0.16.0
 bs4
+lxml
