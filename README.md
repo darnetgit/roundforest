@@ -9,4 +9,4 @@ On Windows, the command is 'set FLASK_APP=application.py'.
 5. Run 'flask run' to start up your Flask application
 
 search for an amazon product q&a on http://127.0.0.1:5000 \
-get json response at http://127.0.0.1:5000/\<ASIN>/\<page>
+get json response at http://127.0.0.1:5000/:ASIN/:page
