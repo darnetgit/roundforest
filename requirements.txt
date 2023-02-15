@@ -2,6 +2,6 @@ Flask
 gunicorn
 requests
 Flask-Session
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 bs4
 lxml
